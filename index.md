@@ -1,6 +1,6 @@
 # Ben Meier
-Dallas, TX
-[LinkedIn](https://www.linkedin.com/in/meierbenjamin/)
+- Dallas, TX
+- [LinkedIn](https://www.linkedin.com/in/meierbenjamin/)
 
 ## Summary
 A data scientist passionate about environmental and socioeconomic issues. I have 5 years of experience working with data to inform economic research and financial regulation. I look forward to new experiences that align with my passions.
@@ -44,9 +44,9 @@ A data scientist passionate about environmental and socioeconomic issues. I have
 
 ## Professional Experience
 
-**_Federal Reserve Bank of Dallas	  Dallas, TX_**
+**Federal Reserve Bank of Dallas	  Dallas, TX**
 
-**Programmer Analyst II, Statistics	  2019 – Present**
+_**Programmer Analyst II, Statistics	  2019 – Present**_
 - Performed data migration and database design to on-board two new survey collections
 - Developed dashboard for preliminary survey data to enable on-demand customer data access 
 eliminating a 1-day lead time
@@ -56,15 +56,15 @@ staff work per year
 pilot AWS Sagemaker environment
 - Led requirements, development, testing, and deployment of five minor version software releases
 
-**Economic Research Assistant, Research	  2018 – 2019**
+_**Economic Research Assistant, Research	  2018 – 2019**_
 - Developed R script to automate the retrieval, cleaning, and validation of data for economic modeling
 - Developed VBA excel workbook to automatically update FOMC regional data
 
-**Business Operations Analyst, FRB Houston	  2016 – 2018**
+_**Business Operations Analyst, FRB Houston	  2016 – 2018**_
 - Improved data collection and analysis of district cafeteria IRS de minimis calculation 
 
 
-## VOLUNTEER
+## Volunteer
 - Coding mentorship at Margaret B. Henderson Elementary
 - Sustainability Initiative (project manager for waste management, data analyst for calculating travel emissions)
 - Eagle Scout
