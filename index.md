@@ -1,37 +1,70 @@
-## Welcome to GitHub Pages
+# Ben Meier
+- Dallas, TX
+- [LinkedIn](https://www.linkedin.com/in/meierbenjamin/)
 
-You can use the [editor on GitHub](https://github.com/bennnyys/mypage/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+## Summary
+A data scientist passionate about environmental and socioeconomic issues. I have 5 years of experience working with data to inform economic research and financial regulation. I look forward to new experiences that align with my passions.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Education
 
-### Markdown
+**Master of Information and Data Science, University of California, Berkeley	  2022 – Present**
+- GPA 4.0 of 4.0
+- Relevant courses: research design, machine learning
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+**BS, Applied Math and Industrial Engineering, Iowa State University	  2011 – 2016**
+- GPA 3.9 of 4.0
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+## Technical Skills
+ 
+**Programming**
+- Python: Pandas, NumPy, SciPy, Scikit-learn, Keras Tensorflow, PyTorch, Beautiful Soup
+- R: RStudio, Tidyverse, ggplot2, Dplyr, Shiny
+- SQL, HTML, CSS, VBA, SAS, Stata
 
-- Bulleted
-- List
+**Data skills**
+- Cloud computing: AWS Sagemaker, Google Collab
+- Databases: SQL, SQL Server, SSIS
+- Git, Anaconda, Jupyter, VS Code, Visual Studio
 
-1. Numbered
-2. List
+**Visualization**
+- Python: Matplotlib, Seaborn, Plotly
+- Tableau, Power BI
 
-**Bold** and _Italic_ and `Code` text
+**Methods**
+- Machine learning: clustering, K means, K nearest neighbors, decision trees, random forest, naive Bayes, neural networks
+- Statistics: logistic/linear regression, gradient descent
 
-[Link](url) and ![Image](src)
-```
+ 
+## Projects
+- Exploratory Data Analysis of Los Angeles Traffic Collisions: demonstrates EDA, Pandas, Matplotlib, Seaborn
+- KNN and K-means Clustering Analysis of Holding Companies: demonstrates Pandas, NumPy, Scikit-learn
+- Meier, Benjamin, et al., 2018. Minimum Wages and Occupational Skills Acquired During High School: PCA, probit estimation
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
 
-### Jekyll Themes
+## Professional Experience
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/bennnyys/mypage/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+**Federal Reserve Bank of Dallas	  Dallas, TX**
 
-### Support or Contact
+_**Programmer Analyst II, Statistics	  2019 – Present**_
+- Performed data migration and database design to on-board two new survey collections
+- Developed dashboard for preliminary survey data to enable on-demand customer data access 
+eliminating a 1-day lead time
+- Developed four extract-transform-notify python automation jobs to eliminate over 700 hours of
+staff work per year
+- Developed K-means clustering notebook and KNN clustering notebook to test proof of concept to 
+pilot AWS Sagemaker environment
+- Led requirements, development, testing, and deployment of five minor version software releases
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+_**Economic Research Assistant, Research	  2018 – 2019**_
+- Developed R script to automate the retrieval, cleaning, and validation of data for economic modeling
+- Developed VBA excel workbook to automatically update FOMC regional data
+
+_**Business Operations Analyst, FRB Houston	  2016 – 2018**_
+- Improved data collection and analysis of district cafeteria IRS de minimis calculation 
+
+
+## Volunteer
+- Coding mentorship at Margaret B. Henderson Elementary
+- Sustainability Initiative (project manager for waste management, data analyst for calculating travel emissions)
+- Eagle Scout
