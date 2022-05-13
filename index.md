@@ -2,9 +2,6 @@
 - Dallas, TX
 - [LinkedIn](https://www.linkedin.com/in/meierbenjamin/)
 
-## Summary
-A data scientist passionate about environmental and socioeconomic issues. I have 5 years of experience working with data to inform economic research and financial regulation. I look forward to new experiences that align with my passions.
-
 ## Education
 
 **Master of Information and Data Science, University of California, Berkeley	  2022 – Present**
