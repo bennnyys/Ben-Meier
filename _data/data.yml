@@ -16,7 +16,7 @@ sidebar:
     phone: # 012 345 6789
     citizenship:
     website: # blog.webjeda.com #do not add http://
-    linkedin: benjaminmeier
+    linkedin: meierbenjamin
     xing: # alandoe
     github: bennnyys
     telegram: # add your nickname without '@' sign
@@ -31,12 +31,6 @@ sidebar:
     languages:
       - idiom: English
         level: Native
-
-      - idiom: 
-        level: 
-
-      - idiom: 
-        level: 
 
     interests:
       - item: Soccer
@@ -77,28 +71,17 @@ experiences:
           - Developed four extract-transform-notify python automation jobs to eliminate over 700 hours of staff work per year
           - Developed K-means clustering notebook and KNN clustering notebook to test proof of concept to pilot AWS Sagemaker environment
           - Led requirements, development, testing, and deployment of five minor version software releases
-    - role: Senior Software Engineer
-      time: 2014 - 2015
-      company: Google, London
+    - role: Economic Research Assistant
+      time: May 2018 - May 2019
+      company: Federal Reserve Bank of Dallas, Research
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-          - Bullet point
-          - Bullet point
-    - role: UI Developer
+          - Developed R script to automate the retrieval, cleaning, and validation of data for economic modeling
+          - Developed VBA excel workbook to automatically update FOMC regional data
+    - role: Business Operations Analyst
       time: 2012 - 2014
-      company: Amazon, London
+      company: Federal Reserve Bank of Dallas, Houston
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-          - Bullet point
-          - Bullet point
+          - Improved data collection and analysis of district cafeteria IRS de minimis calculation
 projects:
     title: Projects
     intro: >
