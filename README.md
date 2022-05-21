@@ -1,7 +1,7 @@
 # Ben Meier's Resume
 Public landing page for my GitHub projects, repo, resume, etc.
 
-See it at: https://bennnyys.github.io/Ben-Meier
+See it at: https://bennnyys.github.io/Ben_Meier
 
 https://dr.lib.iastate.edu/entities/publication/35ac1e12-4c73-4486-ba5b-8abb5efbdc66
 
