@@ -85,6 +85,7 @@ experiences:
 
 # Skills is now formatted exactly like Experiences (without the level bars)
 skills:
+    - title: Technical Skills
     - role: Programming
       details: |
           - Python: Pandas, NumPy, SciPy, Scikit-learn, Beautiful Soup
@@ -140,12 +141,12 @@ publications:
       - title: Minimum Wages and Occupational Skills Acquired During High School
         link: https://ideas.repec.org/p/isu/genstf/201802260800001037.html
         authors: Benjamin Meier, Kyrstin Shadle, Brent E. Kreider and Peter F. Orazem
-        conference: Iowa State University
+        conference: Iowa State University, 2018
 
       - title: "At the Heart of Texas: Cities' Industry Clusters Drive Growth"
         link: https://www.dallasfed.org/research/heart.aspx
         authors: Pia Orrenius, Laila Assanie, Michael Weiss, Alex Abraham, Stephanie Gullo, Benjamin Meier
-        conference: Federal Reserve Bank of Dallas
+        conference: Federal Reserve Bank of Dallas, 2018
 
 
 footer: >
