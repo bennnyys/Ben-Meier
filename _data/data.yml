@@ -82,27 +82,6 @@ experiences:
       company: Federal Reserve Bank of Dallas, Houston
       details: |
           - Improved data collection and analysis of district cafeteria IRS de minimis calculation
-projects:
-    title: Projects
-    intro: 
-    assignments:
-      - title: Exploratory Data Analysis of Los Angeles Traffic Collisions
-        link: https://github.com/bennnyys/EDA-Los-Angeles-Traffic-Collision
-        tagline: Demonstrates EDA, Pandas, Matplotlib, Seaborn
-
-publications:
-    title: Publications
-    intro: 
-    papers:
-      - title: Minimum Wages and Occupational Skills Acquired During High School
-        link: https://ideas.repec.org/p/isu/genstf/201802260800001037.html
-        authors: Benjamin Meier, Kyrstin Shadle, Brent E. Kreider and Peter F. Orazem
-        conference: Iowa State University
-
-      - title: "At the Heart of Texas: Cities' Industry Clusters Drive Growth"
-        link: https://www.dallasfed.org/research/heart.aspx
-        authors: Pia Orrenius, Laila Assanie, Michael Weiss, Alex Abraham, Stephanie Gullo, Benjamin Meier
-        conference: Federal Reserve Bank of Dallas
 
 skills:
     title: Technical Skills
@@ -131,6 +110,29 @@ skills:
       - name: "Machine learning: clustering, K means, K nearest neighbors, naive Bayes"
 
       - name: "Statistics: logistic/linear regression, gradient descent"
+
+projects:
+    title: Projects
+    intro: 
+    assignments:
+      - title: Exploratory Data Analysis of Los Angeles Traffic Collisions
+        link: https://github.com/bennnyys/EDA-Los-Angeles-Traffic-Collision
+        tagline: Demonstrates EDA, Pandas, Matplotlib, Seaborn
+
+publications:
+    title: Publications
+    intro: 
+    papers:
+      - title: Minimum Wages and Occupational Skills Acquired During High School
+        link: https://ideas.repec.org/p/isu/genstf/201802260800001037.html
+        authors: Benjamin Meier, Kyrstin Shadle, Brent E. Kreider and Peter F. Orazem
+        conference: Iowa State University
+
+      - title: "At the Heart of Texas: Cities' Industry Clusters Drive Growth"
+        link: https://www.dallasfed.org/research/heart.aspx
+        authors: Pia Orrenius, Laila Assanie, Michael Weiss, Alex Abraham, Stephanie Gullo, Benjamin Meier
+        conference: Federal Reserve Bank of Dallas
+
 
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
