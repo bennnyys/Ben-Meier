@@ -85,7 +85,7 @@ experiences:
 
 # Skills is now formatted exactly like Experiences (without the level bars)
 skills:
-    - role: Programming 2
+    - role: Programming
       time: # May 2019 - Present
       company: # Federal Reserve Bank of Dallas, Statistics
       details: |
@@ -93,19 +93,24 @@ skills:
           - R: RStudio, Tidyverse, ggplot2, Dplyr, Shiny
           - SQL, HTML, CSS, VBA, SAS, Stata
   
-    - role: Programming
-      details: |
-          - Python: Pandas, NumPy, SciPy, Scikit-learn, Beautiful Soup
-          - R: RStudio, Tidyverse, ggplot2, Dplyr, Shiny
-          - SQL, HTML, CSS, VBA, SAS, Stata
-    
     - role: Visualization
       details: |
           - Python: Matplotlib, Seaborn, Plotly
           - Tableau, Power BI
+    
+    - role: Data Skills
+      details: |
+          - Cloud computing: AWS Sagemaker, Google Collab
+          - Databases: SQL, SQL Server, SSIS
+          - Git, Anaconda, Jupyter, VS Code, Visual Studio
+
+    - role: Methods
+      details: |
+          - Machine learning: clustering, K means, K nearest neighbors, naive Bayes
+          - Statistics: logistic/linear regression, gradient descent
 
 
-# skills:
+# skills:  # OLD SKILLS SECTION WITH SKILL BARS
 #     title: Technical Skills
 
 #     toolset:
