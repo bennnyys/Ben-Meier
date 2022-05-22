@@ -12,11 +12,11 @@ sidebar:
     avatar: profile.jpg  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
-    email: meier_benjamin@outlook.com
+    email: Meier_Benjamin@outlook.com
     phone: # 012 345 6789
     citizenship:
     website: # blog.webjeda.com #do not add http://
-    linkedin: meierbenjamin
+    linkedin: MeierBenjamin
     xing: # alandoe
     github: bennnyys
     telegram: # add your nickname without '@' sign
@@ -112,36 +112,38 @@ projects:
 publications:
     title: Publications
     intro: |
-      You can list your publications in this section. Lorem ipsum dolor sit
-      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-      bibendum fringilla a eu lectus.
+      Previous publications
     papers:
-      - title: The Art of Computer Programming
-        link: "#"
-        authors: Donald E. Knuth
-        conference: Addison-Wesley, 1968
+      - title: Minimum Wages and Occupational Skills Acquired During High School
+        link: https://ideas.repec.org/p/isu/genstf/201802260800001037.html
+        authors: Benjamin Meier, Kyrstin Shadle, Brent E. Kreider and Peter F. Orazem
+        conference: Iowa State University
 
-      - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
-        link: "#"
-        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
+      - title: "At the Heart of Texas: Cities' Industry Clusters Drive Growth"
+        link: https://www.dallasfed.org/research/heart.aspx
+        authors: Pia Orrenius, Laila Assanie, Michael Weiss, Alex Abraham, Stephanie Gullo, Benjamin Meier
+        conference: Federal Reserve Bank of Dallas
 
-      - title: A syntax directed compiler for Algol 60
-        link: "#"
-        authors: Edgar T. Irons
-        conference: "Comm. ACM 4 (1961), 51–55"
+publications:
+    title: Technical Skills
+    intro: |
+      Programming
+    papers:
+      - title: Python (Pandas, NumPy, SciPy, Scikit-learn, Beautiful Soup)
+      - title: "R: RStudio, Tidyverse, ggplot2, Dplyr, Shiny"
+      - title: SQL, HTML, CSS, VBA, SAS, Stata
 
 skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: Python & Django
+      - name: Python (Pandas, NumPy, SciPy, Scikit-learn, Beautiful Soup)
         level: 98%
 
-      - name: Javascript & jQuery
+      - name: R
         level: 98%
 
-      - name: Angular
+      - name: SAS
         level: 98%
 
       - name: HTML5 & CSS
