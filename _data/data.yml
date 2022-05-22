@@ -104,35 +104,33 @@ publications:
         authors: Pia Orrenius, Laila Assanie, Michael Weiss, Alex Abraham, Stephanie Gullo, Benjamin Meier
         conference: Federal Reserve Bank of Dallas
 
-publications:
-    title: Technical Skills
-    intro: 
-    papers:
-      - title: Python (Pandas, NumPy, SciPy, Scikit-learn, Beautiful Soup)
-      - title: "R: RStudio, Tidyverse, ggplot2, Dplyr, Shiny"
-      - title: SQL, HTML, CSS, VBA, SAS, Stata
-
 skills:
-    title: Skills &amp; Proficiency
+    title: Technical Skills
 
     toolset:
-      - name: Python (Pandas, NumPy, SciPy, Scikit-learn, Beautiful Soup)
-        level: 98%
+      - name: "Python: Pandas, NumPy, SciPy, Scikit-learn, Beautiful Soup"
+        level: 90%
 
-      - name: R
-        level: 98%
+      - name: "Notebooks: Jupyter, AWS Sagemaker, Google Collab"
+        level: 90%
 
-      - name: SAS
-        level: 98%
+      - name: "R: RStudio, Tidyverse, ggplot2, Dplyr, Shiny"
+        level: 90%
 
-      - name: HTML5 & CSS
-        level: 95%
+      - name: SQL, HTML, CSS, VBA, SAS, Stata
+        level: 90%
 
-      - name: Ruby on Rails
-        level: 85%
+      - name: "Visualization (Tableau; Power BI; Python: Matplotlib, Seaborn, Plotly)"
+        level: 90%
 
-      - name: Sketch & Photoshop
-        level: 60%
+      - name: "Databases: SQL, SQL Server, SSIS"
+        level: 90%
+
+      - name: Git, Anaconda, Jupyter, VS Code, Visual Studio
+
+      - name: "Machine learning: clustering, K means, K nearest neighbors, naive Bayes"
+
+      - name: "Statistics: logistic/linear regression, gradient descent"
 
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
