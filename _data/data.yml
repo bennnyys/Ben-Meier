@@ -64,6 +64,16 @@ education:
       time: 2011 - 2016
       details: |
           - GPA 3.9 of 4.0
+
+
+projects:
+    title: Projects
+    intro: 
+    assignments:
+      - title: Exploratory Data Analysis of Los Angeles Traffic Collisions
+        link: https://github.com/bennnyys/EDA-Los-Angeles-Traffic-Collision
+        tagline: Demonstrates EDA, Pandas, Matplotlib, Seaborn
+
 experiences:
     - role: Programmer Analyst II
       time: May 2019 - Present
@@ -94,60 +104,46 @@ skills:
       details: |
           - Python: Pandas, NumPy, SciPy, Scikit-learn, Beautiful Soup
           - R: RStudio, Tidyverse, ggplot2, Dplyr, Shiny
-          - SQL, HTML, CSS, VBA, SAS, Stata
+          - VBA, SAS, Stata
+          - SQL: T-SQL, PL/SQL
+          - HTML, CSS
   
     - role: Visualization
       details: |
           - Python: Matplotlib, Seaborn, Plotly
-          - Tableau, Power BI
+          - Tableau
+          - Power BI
     
     - role: Data Skills
       details: |
-          - Cloud computing: AWS Sagemaker, Google Collab
+          - Cloud computing: AWS Sagemaker, Google Colab
           - Databases: SQL, SQL Server, SSIS
           - Git, Anaconda, Jupyter, VS Code, Visual Studio
 
     - role: Methods
       details: |
           - Machine learning: clustering, K means, K nearest neighbors, naive Bayes
-          - Statistics: logistic/linear regression, gradient descent
+          - Statistics: linear regression, linear regression, gradient descent
 
 
 # skills:  # OLD SKILLS SECTION WITH SKILL BARS
 #     title: Technical Skills
-
 #     toolset:
 #       - name: "Python: Pandas, NumPy, SciPy, Scikit-learn, Beautiful Soup"
 #         level: 90%
-
 #       - name: "Notebooks: Jupyter, AWS Sagemaker, Google Collab"
 #         level: 90%
-
 #       - name: "R: RStudio, Tidyverse, ggplot2, Dplyr, Shiny"
 #         level: 90%
-
 #       - name: SQL, HTML, CSS, VBA, SAS, Stata
 #         level: 90%
-
 #       - name: "Visualization (Tableau; Power BI; Python: Matplotlib, Seaborn, Plotly)"
 #         level: 90%
-
 #       - name: "Databases: SQL, SQL Server, SSIS"
 #         level: 90%
-
 #       - name: Git, Anaconda, Jupyter, VS Code, Visual Studio
-
 #       - name: "Machine learning: clustering, K means, K nearest neighbors, naive Bayes"
-
 #       - name: "Statistics: logistic/linear regression, gradient descent"
-
-projects:
-    title: Projects
-    intro: 
-    assignments:
-      - title: Exploratory Data Analysis of Los Angeles Traffic Collisions
-        link: https://github.com/bennnyys/EDA-Los-Angeles-Traffic-Collision
-        tagline: Demonstrates EDA, Pandas, Matplotlib, Seaborn
 
 publications:
     title: Publications
