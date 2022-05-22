@@ -84,35 +84,15 @@ experiences:
           - Improved data collection and analysis of district cafeteria IRS de minimis calculation
 projects:
     title: Projects
-    intro: >
-      You can list your side projects or open source libraries in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+    intro: 
     assignments:
-      - title: Velocity
-        link: "#hook"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
-
-      - title: DevStudio
-        link: "#"
-        tagline: "A responsive website template designed to help web developers/designers market their services."
-
-      - title: Tempo
-        link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
-
-      - title: Atom
-        link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
-
-      - title: Delta
-        link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+      - title: Exploratory Data Analysis of Los Angeles Traffic Collisions
+        link: https://github.com/bennnyys/EDA-Los-Angeles-Traffic-Collision
+        tagline: Demonstrates EDA, Pandas, Matplotlib, Seaborn
 
 publications:
     title: Publications
-    intro: |
-      Previous publications
+    intro: 
     papers:
       - title: Minimum Wages and Occupational Skills Acquired During High School
         link: https://ideas.repec.org/p/isu/genstf/201802260800001037.html
@@ -126,8 +106,7 @@ publications:
 
 publications:
     title: Technical Skills
-    intro: |
-      Programming
+    intro: 
     papers:
       - title: Python (Pandas, NumPy, SciPy, Scikit-learn, Beautiful Soup)
       - title: "R: RStudio, Tidyverse, ggplot2, Dplyr, Shiny"
