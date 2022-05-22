@@ -2,6 +2,11 @@
 <img src="https://img.shields.io/badge/featured%20on-JT-red.svg" height="20" alt="Jekyll Themes Shield" >
 </a>
 
+
+# Ben Meier's Resume
+> gh-pages branch for updating personal website
+> The site is a customization of a jekyll theme designed by  Xiaoying Riley. Many thanks to Xiaoying and the jekyll team for their excellent documentation.
+
 # Orbit
 > This theme is designed by Xiaoying Riley at [3rd Wave Media](http://themes.3rdwavemedia.com/).
 > Visit her [website](http://themes.3rdwavemedia.com/) for more themes.
