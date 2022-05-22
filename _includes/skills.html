@@ -10,32 +10,29 @@
     {{ skills.title }}
   </h2>
 
-  <div class="skillset">
-
     {% for skill in skills.toolset %}
     <div class="item">
 
         <div class="meta">
-    
-          <div class="upper-row">
+
+            <div class="upper-row">
             <h3 class="job-title">{{ skills.role }}</h3>
             <div class="time">{{ skills.time }}</div>
-          </div><!--//upper-row-->
-    
-          <div class="company">{{ skills.company }}</div>
-    
+            </div><!--//upper-row-->
+
+            <div class="company">{{ skills.company }}</div>
+
         </div><!--//meta-->
-    
+
         {% if skills.details %}
         <div class="details">
-          {{ skills.details | markdownify }}
+            {{ skills.details | markdownify }}
         </div><!--//details-->
         {% endif %}
-    
-      </div><!--//item-->
+
+        </div><!--//item-->
     {% endfor %}
 
-  </div>
 
 </section><!--//skills-section-->
 {% endif %}
