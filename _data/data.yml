@@ -83,33 +83,33 @@ experiences:
       details: |
           - Improved data collection and analysis of district cafeteria IRS de minimis calculation
 
-skills:
-    title: Technical Skills
+# skills:
+#     title: Technical Skills
 
-    toolset:
-      - name: "Python: Pandas, NumPy, SciPy, Scikit-learn, Beautiful Soup"
-        level: 90%
+#     toolset:
+#       - name: "Python: Pandas, NumPy, SciPy, Scikit-learn, Beautiful Soup"
+#         level: 90%
 
-      - name: "Notebooks: Jupyter, AWS Sagemaker, Google Collab"
-        level: 90%
+#       - name: "Notebooks: Jupyter, AWS Sagemaker, Google Collab"
+#         level: 90%
 
-      - name: "R: RStudio, Tidyverse, ggplot2, Dplyr, Shiny"
-        level: 90%
+#       - name: "R: RStudio, Tidyverse, ggplot2, Dplyr, Shiny"
+#         level: 90%
 
-      - name: SQL, HTML, CSS, VBA, SAS, Stata
-        level: 90%
+#       - name: SQL, HTML, CSS, VBA, SAS, Stata
+#         level: 90%
 
-      - name: "Visualization (Tableau; Power BI; Python: Matplotlib, Seaborn, Plotly)"
-        level: 90%
+#       - name: "Visualization (Tableau; Power BI; Python: Matplotlib, Seaborn, Plotly)"
+#         level: 90%
 
-      - name: "Databases: SQL, SQL Server, SSIS"
-        level: 90%
+#       - name: "Databases: SQL, SQL Server, SSIS"
+#         level: 90%
 
-      - name: Git, Anaconda, Jupyter, VS Code, Visual Studio
+#       - name: Git, Anaconda, Jupyter, VS Code, Visual Studio
 
-      - name: "Machine learning: clustering, K means, K nearest neighbors, naive Bayes"
+#       - name: "Machine learning: clustering, K means, K nearest neighbors, naive Bayes"
 
-      - name: "Statistics: logistic/linear regression, gradient descent"
+#       - name: "Statistics: logistic/linear regression, gradient descent"
 
 projects:
     title: Projects
