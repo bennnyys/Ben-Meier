@@ -29,8 +29,8 @@ sidebar:
     pdf: https://github.com/bennnyys/Ben-Meier/blob/main/R2022.05%20ds.pdf
 
     languages:
-      - idiom: English
-        level: Native
+      - idiom: #English
+        level: #Native
 
     interests:
       - item: Soccer
