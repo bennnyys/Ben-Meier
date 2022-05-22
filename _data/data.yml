@@ -85,7 +85,14 @@ experiences:
 
 # Skills is now formatted exactly like Experiences (without the level bars)
 skills:
-    - title: Technical Skills
+    - role: Programming 2
+      time: # May 2019 - Present
+      company: # Federal Reserve Bank of Dallas, Statistics
+      details: |
+          - Python: Pandas, NumPy, SciPy, Scikit-learn, Beautiful Soup
+          - R: RStudio, Tidyverse, ggplot2, Dplyr, Shiny
+          - SQL, HTML, CSS, VBA, SAS, Stata
+  
     - role: Programming
       details: |
           - Python: Pandas, NumPy, SciPy, Scikit-learn, Beautiful Soup
