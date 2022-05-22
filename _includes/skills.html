@@ -15,14 +15,24 @@
     {% for skill in skills.toolset %}
     <div class="item">
 
-      <h3 class="level-title">{{ skill.name }}</h3>
-
-      <div class="level-bar">
-        <div class="level-bar-inner" data-level="{{ skill.level }}">
-        </div>
-      </div><!--//level-bar-->
-
-    </div><!--//item-->
+        <div class="meta">
+    
+          <div class="upper-row">
+            <h3 class="job-title">{{ skills.role }}</h3>
+            <div class="time">{{ skills.time }}</div>
+          </div><!--//upper-row-->
+    
+          <div class="company">{{ skills.company }}</div>
+    
+        </div><!--//meta-->
+    
+        {% if skills.details %}
+        <div class="details">
+          {{ skills.details | markdownify }}
+        </div><!--//details-->
+        {% endif %}
+    
+      </div><!--//item-->
     {% endfor %}
 
   </div>

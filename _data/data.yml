@@ -83,6 +83,20 @@ experiences:
       details: |
           - Improved data collection and analysis of district cafeteria IRS de minimis calculation
 
+# Skills is now formatted exactly like Experiences (without the level bars)
+skills:
+    - role: Programming
+      details: |
+          - Python: Pandas, NumPy, SciPy, Scikit-learn, Beautiful Soup
+          - R: RStudio, Tidyverse, ggplot2, Dplyr, Shiny
+          - SQL, HTML, CSS, VBA, SAS, Stata
+    
+    - role: Visualization
+      details: |
+          - Python: Matplotlib, Seaborn, Plotly
+          - Tableau, Power BI
+
+
 # skills:
 #     title: Technical Skills
 
