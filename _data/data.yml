@@ -72,7 +72,13 @@ projects:
     assignments:
       - title: Exploratory Data Analysis of Los Angeles Traffic Collisions
         link: https://github.com/bennnyys/EDA-Los-Angeles-Traffic-Collision
-        tagline: Demonstrates EDA, Pandas, Matplotlib, Seaborn
+        tagline: Course final project demonstrating experience with EDA and visualization in python (pandas, matplotlib, seaborn).
+
+      - title: Clustering Analysis of Holding Companies
+        link: 
+        tagline: Self-directed project to identify clusters of financial institution in U.S. using public FR Y-9C data. Uses EDA, 
+K-means and KNN clustering, and visualization in python (pandas, numpy, scikit-learn, matplotlib, seaborn).
+
 
 experiences:
     - role: Programmer Analyst II
