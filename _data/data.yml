@@ -12,7 +12,7 @@ sidebar:
     avatar: profile.jpg  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
-    email: Meier_Benjamin@yahoo.com
+    email: meier_benjamin@yahoo.com
     phone: # 012 345 6789
     citizenship:
     website: # blog.webjeda.com #do not add http://
@@ -26,7 +26,7 @@ sidebar:
     stack-overflow: # Number/Username, e.g. 123456/alandoe
     codewars:
     goodreads: # Number-Username, e.g. 123456-alandoe
-    pdf: https://github.com/bennnyys/Ben_Meier/blob/main/2022.05.pdf
+    pdf: https://github.com/bennnyys/Ben-Meier/blob/main/R2022.06.pdf
 
     interests:
       - item: Soccer
