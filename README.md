@@ -4,8 +4,8 @@
 
 
 # Ben Meier's Resume
-> gh-pages branch for updating personal website
-> The site is a customization of a jekyll theme designed by  Xiaoying Riley. Many thanks to Xiaoying and the jekyll team for their excellent documentation.
+> gh-pages branch for updating personal website  
+> The site is a customization of a jekyll theme designed by  Xiaoying Riley. Many thanks to Xiaoying and the jekyll team for their excellent documentation.  
 
 # Orbit
 > This theme is designed by Xiaoying Riley at [3rd Wave Media](http://themes.3rdwavemedia.com/).
