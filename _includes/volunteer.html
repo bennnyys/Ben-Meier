@@ -1,0 +1,32 @@
+{% assign volunteer = site.data.data.volunteer %}
+{% if volunteer %}
+<section class="section volunteer-section">
+
+  <h2 class="section-title">
+    <span class="fa-stack fa-xs">
+      <i class="fas fa-circle fa-stack-2x"></i>
+      <i class="fas fa-file-alt fa-stack-1x fa-inverse"></i>
+    </span>
+    {{ volunteer.title }}
+  </h2>
+
+  {% if volunteer.intro %}
+  <div class="intro">
+    {{ volunteer.intro | markdownify }}
+  </div><!--//intro-->
+  {% endif %}
+
+  {% for publication in volunteer.papers %}
+  <div class="item">
+    {% if volunteer.link %}
+      <li><a href="{{ volunteer.link }}">{{ volunteer.title }}</a></li>
+    {% else %}
+      <li>{{ volunteer.title }}</li>
+    {% endif %}
+    <div class="volunteer-authors">{{ volunteer.authors }}</div>
+    <div class="volunteer-conference">{{ volunteer.conference }}</div>
+  </div><!--//item-->
+  {% endfor %}
+
+</section><!--//section-->
+{% endif %}
