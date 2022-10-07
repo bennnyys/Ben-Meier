@@ -26,13 +26,13 @@ sidebar:
     stack-overflow: # Number/Username, e.g. 123456/alandoe
     codewars:
     goodreads: # Number-Username, e.g. 123456-alandoe
-    pdf: https://github.com/bennnyys/Ben-Meier/blob/main/R2022.06.pdf
+    pdf: https://github.com/bennnyys/Ben-Meier/blob/main/Resume.pdf
 
     interests:
       - item: Soccer
         link:
 
-      - item: Nature
+      - item: Gardening
         link:
 
       - item: Disc golf
@@ -43,25 +43,23 @@ sidebar:
 
     languages:
       - idiom: English
-        level: Native
-
-      - idiom: Spanish
-        level: Basic
+        level: Fluent
           
 career-profile:
     title: Summary
     summary: |
-      A data scientist passionate about environmental and socioeconomic 
-      issues. I have 6 years of experience working with data to inform 
-      economic research and financial regulation. I look forward to new 
-      experiences that align with my passions.
+      A data scientist passionate about leveraging data and technology 
+      to improve socioeconomic, environmental and political issues. I 
+      have 6 years of experience working with as programmer to leverage 
+      data and technology to inform economic research, policy and 
+      financial regulation.
 education:
     - degree: Master of Information and Data Science
       university: University of California, Berkeley
       time: 2022 - Present
       details: |
           - GPA 4.0 of 4.0
-          - Relevant courses: research design, machine learning
+          - Relevant courses: research design, machine learning, data engineering
     - degree: BS, Applied Math and Industrial Engineering
       university: Iowa State University
       time: 2011 - 2016
@@ -73,11 +71,18 @@ projects:
     title: Projects
     intro: 
     assignments:
+      - title: Predicting Building Site Energy Usage
+        link: https://github.com/bennnyys/Predicting-Building-Site-Usage
+        tagline: |
+          Predicting building site energy usage using building performance data. 
+          Linear regression and random forest models were trained, but a random
+          forest showed the lowest mean absolute error (TensorFlow, sklearn)
+
       - title: Exploratory Data Analysis of Los Angeles Traffic Collisions
         link: https://github.com/bennnyys/EDA-Los-Angeles-Traffic-Collision
         tagline: |
-          Course final project demonstrating experience with EDA and visualization in python 
-          (pandas, matplotlib, seaborn).
+          Course final project demonstrating experience with EDA and visualization 
+          in python (pandas, matplotlib, seaborn).
 
       - title: Clustering Analysis of Holding Companies
         link: 
@@ -95,19 +100,25 @@ experiences:
           - Performed data migration and database design to on-board two new survey collections
           - Developed dashboard for preliminary survey data to enable on-demand customer data access eliminating a 1-day lead time
           - Developed four extract-transform-notify python automation jobs to eliminate over 700 hours of staff work per year
+          - Developed 15 SSIS packages to transition survey collection platform to new PaaS environment
           - Developed K-means clustering notebook and KNN clustering notebook to test proof of concept to pilot AWS Sagemaker environment
           - Led requirements, development, testing, and deployment of five minor version software releases
+          - Developed python scripts to migrate survey data in real-time to new database environment
     - role: Economic Research Assistant
       time: May 2018 - May 2019
       company: Federal Reserve Bank of Dallas, Research
       details: |
           - Developed R script to automate the retrieval, cleaning, and validation of data for economic modeling
-          - Developed VBA excel workbook to automatically update FOMC regional data
+          - Developed VBA excel workbook to automatically update FOMC regional data, eliminating 4 days of rework for every 6-week cycle
+          - Provided research support and analysis for real-time economic updates in the 11th District
     - role: Business Operations Analyst
-      time: 2012 - 2014
+      time: 2016 - 2018
       company: Federal Reserve Bank of Dallas, Houston
       details: |
           - Improved data collection and analysis of district cafeteria IRS de minimis calculation
+          - Analyzed and summarized regional economic conditions for the Board of Directors
+          - Supported executive leadership research requests during and after Hurricane Harvey
+          - Represented Houston Branch on the President's Sustainability Initiative Council
 
 # Skills is now formatted exactly like Experiences (without the level bars)
 skills:
@@ -115,7 +126,7 @@ skills:
       time: # May 2019 - Present
       company: # Federal Reserve Bank of Dallas, Statistics
       details: |
-          - Python: Pandas, NumPy, SciPy, Scikit-learn, Beautiful Soup
+          - Python: Pandas, NumPy, SciPy, Scikit-learn, Keras TensorFlow, PyTorch, Beautiful Soup
           - R: RStudio, Tidyverse, ggplot2, Dplyr, Shiny
           - VBA, SAS, Stata
           - SQL: T-SQL, PL/SQL
@@ -129,13 +140,13 @@ skills:
     
     - role: Data Skills
       details: |
-          - Cloud computing: AWS Sagemaker, Google Colab
-          - Databases: SQL, SQL Server, SSIS
+          - Cloud computing: AWS Sagemaker, S3, EC2, Google Colab
+          - Databases: SQL, PostgreSQL, Neo4j, Mongo, Redis, Kafka, Zookeeper, NGINX, SQL Server, SSIS
           - Git, Anaconda, Jupyter, VS Code, Visual Studio
 
     - role: Methods
       details: |
-          - Machine learning: clustering, K means, K nearest neighbors, naive Bayes
+          - Machine learning: clustering, K means, K nearest neighbors, decision trees, random forest, naive Bayes, neural networks, CNN
           - Statistics: linear regression, linear regression, gradient descent
 
 
