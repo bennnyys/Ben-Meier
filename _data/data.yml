@@ -183,6 +183,14 @@ publications:
         authors: Pia Orrenius, Laila Assanie, Michael Weiss, Alex Abraham, Stephanie Gullo, Benjamin Meier
         conference: Federal Reserve Bank of Dallas, 2018
 
+volunteer:
+    title: Volunteer
+    intro: 
+    assignments:
+      - title: Mentored 2nd grade students through coding challenge (Bold Idea/ideaSpark)
+      - title: Sustainability Initiative (project manager for waste management, data analyst for calculating travel emissions)
+      - title: Eagle Scout
+
 
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
