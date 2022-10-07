@@ -188,8 +188,20 @@ volunteer:
     intro: 
     assignments:
       - title: Mentored 2nd grade students through coding challenge (Bold Idea/ideaSpark)
+        link:
+        authors:
+        conference:
+
       - title: Sustainability Initiative (project manager for waste management, data analyst for calculating travel emissions)
+        link:
+        authors:
+        conference:
+
       - title: Eagle Scout
+        link:
+        authors:
+        conference:
+
 
 
 footer: >
