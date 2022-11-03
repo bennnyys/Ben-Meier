@@ -14,7 +14,7 @@ sidebar:
     # Sidebar links
     email: meier_benjamin@yahoo.com
     phone: # 012 345 6789
-    citizenship:
+    citizenship: Chicago, IL
     website: # blog.webjeda.com #do not add http://
     linkedin: MeierBenjamin
     xing: # alandoe
@@ -26,7 +26,7 @@ sidebar:
     stack-overflow: # Number/Username, e.g. 123456/alandoe
     codewars:
     goodreads: # Number-Username, e.g. 123456-alandoe
-    address: Chicago, IL
+    location: Chicago, IL
     pdf: https://github.com/bennnyys/Ben-Meier/blob/main/Resume.pdf
 
     interests:
