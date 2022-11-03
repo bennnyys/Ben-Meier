@@ -8,13 +8,13 @@ sidebar:
 
     # Profile information
     name: Ben Meier
-    tagline: Data Scientist
+    tagline: Aspiring Data Scientist
     avatar: profile.jpg  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
     email: meier_benjamin@yahoo.com
     phone: # 012 345 6789
-    citizenship: Chicago, IL
+    location: Chicago, IL
     website: # blog.webjeda.com #do not add http://
     linkedin: MeierBenjamin
     xing: # alandoe
@@ -26,7 +26,6 @@ sidebar:
     stack-overflow: # Number/Username, e.g. 123456/alandoe
     codewars:
     goodreads: # Number-Username, e.g. 123456-alandoe
-    location: Chicago, IL
     pdf: https://github.com/bennnyys/Ben-Meier/blob/main/Resume.pdf
 
     interests:
@@ -44,7 +43,7 @@ sidebar:
 
     languages:
       - idiom: English
-        level: Fluent
+        level: fluent
           
 career-profile:
     title: Summary
