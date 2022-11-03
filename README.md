@@ -4,7 +4,7 @@
 
 
 # Ben Meier's Resume
-> gh-pages branch for updating personal website  
+> gh-pages branch for updating personal website: [Resume](https://github.com/bennnyys/Ben-Meier/blob/main/Resume.pdf)
 > The site is a customization of a jekyll theme designed by  Xiaoying Riley. Many thanks to Xiaoying and the jekyll team for their excellent documentation.  
 
 # Orbit
