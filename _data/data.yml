@@ -8,13 +8,13 @@ sidebar:
 
     # Profile information
     name: Ben Meier
-    tagline: Aspiring Data Scientist
+    tagline: Data Scientist with strong Data Engineer skills
     avatar: profile.jpg  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
     email: meier_benjamin@yahoo.com
     phone: # 012 345 6789
-    location: Chicago, IL
+    location: Madison, WI
     website: # blog.webjeda.com #do not add http://
     linkedin: MeierBenjamin
     xing: # alandoe
@@ -48,23 +48,25 @@ sidebar:
 career-profile:
     title: Summary
     summary: |
-      A data scientist passionate about leveraging data and technology 
-      to improve socioeconomic, environmental and political issues. I 
-      have 6 years of experience working with as programmer to leverage 
-      data and technology to inform economic research, policy and 
-      financial regulation.
+      A programmer passionate about leveraging automation, data and 
+      technology to promote open government and improve socioeconomic 
+      and environmental issues. I have 11 years of experience working
+      as programmer to leverage data and technology to inform research, 
+      policy and regulation in banking and biopharmaceuticals.
+
 education:
     - degree: Master of Information and Data Science
       university: University of California, Berkeley
-      time: 2022 - Present
+      time: 2022 - 2024
       details: |
           - GPA 4.0 of 4.0
-          - Relevant courses: research design, machine learning, data engineering
+          - Completed coursework: data engineering, machine learning, experiment design, applied statistics
     - degree: BS, Applied Math and Industrial Engineering
       university: Iowa State University
       time: 2011 - 2016
       details: |
           - GPA 3.9 of 4.0
+          - summa cum laude
 
 
 projects:
@@ -84,28 +86,32 @@ projects:
           Course final project demonstrating experience with EDA and visualization 
           in python (pandas, matplotlib, seaborn).
 
-      - title: Clustering Analysis of Holding Companies
-        link: 
-        tagline: |
-          Self-directed project to identify clusters of financial institution in U.S. using 
-          public FR Y-9C data. Uses EDA, K-means and KNN clustering, and visualization in python 
-          (pandas, numpy, scikit-learn, matplotlib, seaborn).
-
-
 experiences:
+    - role: Data Scientist II
+      time: 2023 - Present
+      company: AbbVie Biopharmaceutical, Information Research
+      details: |
+          - Developed custom python data pipeline to orchestrate and transform source data into RDF (triple-store) for entity reconciliation
+          - Orchestrated data pipelines and implemented data testing framework using Airflow
+          - Reconfigured three knowledge extraction pipelines through normalization, knowledge extraction, and graph representation 
+          - Implemented new code deployment and promotion process with external contractors
+          - Developed python module standardize and extend PySpark functionality amongst team
+          - Developed custom python code to parse corrupted xml files
+          - Documented new features and processes using confluence and created training videos to help cross-train and coach new employees/contractors
+          - Created new Development and QA environments to ensure seamless code handoffs to Production operations team
     - role: Programmer Analyst II
-      time: May 2019 - Present
+      time: 2019 - 2023
       company: Federal Reserve Bank of Dallas, Statistics
       details: |
-          - Performed data migration and database design to on-board two new survey collections
-          - Developed dashboard for preliminary survey data to enable on-demand customer data access eliminating a 1-day lead time
           - Developed four extract-transform-notify python automation jobs to eliminate over 700 hours of staff work per year
-          - Developed 15 SSIS packages to transition survey collection platform to new PaaS environment
+          - Designed and implemented new ETL process to transition survey collection platform to PaaS
+          - Performed data migration and database design to on-board two new survey collections
+          - Developed dashboard for preliminary survey data to enable rea-time data acess for researches, thus eliminating a 1-day delay
           - Developed K-means clustering notebook and KNN clustering notebook to test proof of concept to pilot AWS Sagemaker environment
           - Led requirements, development, testing, and deployment of five minor version software releases
-          - Developed python scripts to migrate survey data in real-time to new database environment
+          - Developed python scripts to migrate survey data to new database environment
     - role: Economic Research Assistant
-      time: May 2018 - May 2019
+      time: 2018 - 2019
       company: Federal Reserve Bank of Dallas, Research
       details: |
           - Developed R script to automate the retrieval, cleaning, and validation of data for economic modeling
@@ -126,48 +132,40 @@ skills:
       time: # May 2019 - Present
       company: # Federal Reserve Bank of Dallas, Statistics
       details: |
-          - Python: Pandas, NumPy, SciPy, Scikit-learn, Keras TensorFlow, PyTorch, Beautiful Soup
-          - R: RStudio, Tidyverse, ggplot2, Dplyr, Shiny
-          - VBA, SAS, Stata
-          - SQL: T-SQL, PL/SQL
-          - HTML, CSS
-  
+          - Python, R, Scala, SAS
+    - role: Data engineering
+      details: |
+          - PySpark, Airflow, Hadoop
+          - Neo4j
+          - PostgreSQL (psycopg2)
+          - SQL Server (SSIS)
+          - Mongo, Redis
+          - MarkLogic (RDF/triple store), SPARQL
+    - role: Data munging
+      details: |
+          - Spark, PySpark
+          - Pandas, numpy
+          - Hive, Impala, T-SQL, pgSQL
+    - role: Cloud
+      details: |
+          - Linux, Docker, AWS (S3, EC2, Sagemaker, boto3)
+    - role: Collaboration
+      details: |
+          - Jira, Agile, Git, GitHub/GitLab, CML, Anaconda, Jupyter
+    - role: Machine learning
+      details: |
+          - Keras Tensorflow
+          - Scikit-learn
     - role: Visualization
       details: |
-          - Python: Matplotlib, Seaborn, Plotly
-          - Tableau
-          - Power BI
-    
-    - role: Data Skills
-      details: |
-          - Cloud computing: AWS Sagemaker, S3, EC2, Google Colab
-          - Databases: SQL, PostgreSQL, Neo4j, Mongo, Redis, Kafka, Zookeeper, NGINX, SQL Server, SSIS
-          - Git, Anaconda, Jupyter, VS Code, Visual Studio
-
+          - Tableau, Power BI, Spotfire
+          - Python (Matplotlib, Seaborn, Plotly)
+          - R (ggplot)
+          - HTML, CSS
     - role: Methods
       details: |
           - Machine learning: clustering, K means, K nearest neighbors, decision trees, random forest, naive Bayes, neural networks, CNN
           - Statistics: linear regression, linear regression, gradient descent
-
-
-# skills:  # OLD SKILLS SECTION WITH SKILL BARS
-#     title: Technical Skills
-#     toolset:
-#       - name: "Python: Pandas, NumPy, SciPy, Scikit-learn, Beautiful Soup"
-#         level: 90%
-#       - name: "Notebooks: Jupyter, AWS Sagemaker, Google Collab"
-#         level: 90%
-#       - name: "R: RStudio, Tidyverse, ggplot2, Dplyr, Shiny"
-#         level: 90%
-#       - name: SQL, HTML, CSS, VBA, SAS, Stata
-#         level: 90%
-#       - name: "Visualization (Tableau; Power BI; Python: Matplotlib, Seaborn, Plotly)"
-#         level: 90%
-#       - name: "Databases: SQL, SQL Server, SSIS"
-#         level: 90%
-#       - name: Git, Anaconda, Jupyter, VS Code, Visual Studio
-#       - name: "Machine learning: clustering, K means, K nearest neighbors, naive Bayes"
-#       - name: "Statistics: logistic/linear regression, gradient descent"
 
 publications:
     title: Publications
